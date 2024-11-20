@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "Live Preview",
+			"workspacePath": "d:\\Games\\VSC\\VSC Projetos\\Newsletter sign-up form with success message",
+			"problemMatcher": [],
+			"label": "Live Preview: Run Server"
+		}
+	]
+}
