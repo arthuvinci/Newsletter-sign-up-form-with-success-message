@@ -86,6 +86,7 @@ body{
     padding-left: 20px;
     z-index: 2;
     position: relative;
+    font-size: 16px;
 }
 .form-text input::placeholder{
     font-family: 'roboto';
