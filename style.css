@@ -5,7 +5,9 @@
     margin: 0;
     box-sizing: border-box;
 }
-
+#card{
+    height: 100vh;
+}
 body{
     font-family: roboto,sans-serif;
     width: 100vw;
@@ -75,7 +77,7 @@ body{
     font-weight: 700;
 }
 .form-text input{
-    height: 4em;
+    height: 3.8em;
     width: 100%;
     border-radius: 10px;
     border: solid 2px rgb(230, 230, 230);
@@ -119,11 +121,11 @@ body{
 
 /* valid email page */
 .valid-email.hidden{
-    transform: translatey(-950px);
+    transform: translatey(-1100px);
     transition: .3s ease-in-out;
 }
 .valid-email{
-    height: 100vh;
+    height:120vh;
     background-color: white;
     position: relative;
     position: absolute;
